@@ -26,5 +26,7 @@ This interactive (Google) map shows you the location of current Legacy-Roleplay 
 ## Credits
 
 To [skyrossm](https://github.com/skyrossm/np-gangmap) for his work on the No Pixel Gang Map
+
 To [danharper](https://github.com/danharper/) for [his work](https://github.com/danharper/GTAV) on the GTA V map.
+
 To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/gta5-map/gta5-map.github.io) on the GTA V map.
