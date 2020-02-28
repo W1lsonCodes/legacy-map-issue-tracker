@@ -6,12 +6,12 @@ This interactive (Google) map shows you the location of current Legacy-Roleplay 
 
 ## How to submit a Issue
 
-1. Please Go To [Issue Template](#)
+1. Please Go To [Issue Template](https://github.com/W1lsonCodes/legacy-map-issue-tracker/blob/master/template/issues.md)
 2. Click on [Issues](https://github.com/W1lsonCodes/legacy-map-issue-tracker/issues)
 3. Paste in the template and once finished click 'Submit New Issue'
 
 ## How to submit a Suggestion
-1. Please Go To [Suggestion Template](#)
+1. Please Go To [Suggestion Template](https://github.com/W1lsonCodes/legacy-map-issue-tracker/blob/master/template/suggestion.md)
 2. Click on [Issues](https://github.com/W1lsonCodes/legacy-map-issue-tracker/issues)
 3. Paste in the template and once finished click 'Submit New Issue'
 
