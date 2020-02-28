@@ -1,4 +1,4 @@
-## Adding Territory
+## Adding / Removal Territory
 
 **Gang Name:**
 Name of Gang Requesting 
